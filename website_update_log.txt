@@ -1,0 +1,39 @@
+# 新しいファイル
+* newpage1.html
+	+ ページトップ
+	+ 画像ファイル(jpg)
+		+ DSCN43972.jpg
+		+ DSCN44114.jpg
+		+ DSCN44163.jpg
+		+ DSCN440712.jpg
+		+ DSCN4414 (1)3.jpg
+		+ DSCN44193.jpg
+		+ DSCN44203.jpg
+	+ 画像ファイル(gif)
+		+ wallppr016.gif
+		+ a_ilst197.gif
+		+ logo22.gif
+		+ button2.gif
+		+ logo31.gif
+		+ a_ilst194.gif
+		+ logo15.gif
+		+ anim3.gif
+* newpage4.html
+	+ 2つ目のページ
+		+ 画像ファイル
+			+ DSCN43973.jpg
+			+ DSCN4409 (1)1.jpg
+			+ DSCN441111.jpg
+		+ 画像ファイル(gif)
+			+ a_ilst195.gif
+			+ logo41.gif
+			+ button1.gif
+			+ logo42.gif
+			+ a_ilst067.gif
+# リモートリポジトリ
+* index.html
+	+ newpage1のコードに置き換える
+* newpage4
+	+ ローカルのnewpage4のコードに置き換える．
+
+
