@@ -182,4 +182,10 @@
 </DATA>
 <DATA type="MIF" src="DSCN46432.jpg" size="21738" crc="2978240560" ref="DSCN46432.mif" ref_size="450226" ref_crc="2566352101">
 </DATA>
+<DATA type="CHARANIM" src="anim9.gif" size="17551" crc="2376947619" ref="anim9.ini" ref_size="1375" ref_crc="3214281015">
+</DATA>
+<DATA type="CHARANIM" src="anim10.gif" size="16721" crc="385273943" ref="anim10.ini" ref_size="1371" ref_crc="2040167135">
+</DATA>
+<DATA type="CHARANIM" src="anim11.gif" size="21621" crc="1784833937" ref="anim11.ini" ref_size="1371" ref_crc="2472749213">
+</DATA>
 </RECYCLEDDATA>
