@@ -208,4 +208,12 @@
 </DATA>
 <DATA type="CHARANIM" src="anim12.gif" size="38591" crc="1659042410" ref="anim12.ini" ref_size="1391" ref_crc="1144121055">
 </DATA>
+<DATA type="BUTTON" src="button21.gif" size="3006" crc="2606167113" ref="button21.mif" ref_size="27721" ref_crc="2961447433">
+</DATA>
+<DATA type="BUTTON" src="button5.gif" size="3006" crc="2606167113" ref="button5.mif" ref_size="27721" ref_crc="2961447433">
+</DATA>
+<DATA type="CHARANIM" src="anim13.gif" size="21201" crc="2402719319" ref="anim13.ini" ref_size="1379" ref_crc="2719734704">
+</DATA>
+<DATA type="CHARANIM" src="anim14.gif" size="21201" crc="2402719319" ref="anim14.ini" ref_size="1379" ref_crc="2719734704">
+</DATA>
 </RECYCLEDDATA>
