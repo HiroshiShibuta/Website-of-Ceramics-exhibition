@@ -56,7 +56,7 @@
         <td height="58" width="322" align="center"><b><font size="+2"><img src="anim22.gif" width="125" height="31" border="0" alt="商品4">　花入れ　灰釉　</font><font size="+2" color="#660000">焼き締め</font></b><br>
         <b><font size="+1">8000円</font></b><br>
         高さ15㎝</td>
-        <td height="58" width="338" align="center"><font size="+1"><b><font size="+3">&nbsp;5</font></b></font><b><font size="+2">　花入れ　灰釉　</font><font size="+2" color="#660000">焼き締め</font></b><br>
+        <td height="58" width="338" align="center"><font size="+1"><b><font size="+3">&nbsp;<img src="anim23.gif" width="117" height="29" border="0" alt="商品5"></font></b></font><b><font size="+2">　花入れ　灰釉　</font><font size="+2" color="#660000">焼き締め</font></b><br>
         <b><font size="+1">8000円</font></b><br>
         高さ　１５㎝　　</td>
         <td height="58" width="306">&nbsp;</td>
@@ -154,6 +154,23 @@
       </tr>
     </tbody>
   </table>
+  <br>
+  <br>
+  <table border="1" width="1006">
+    <tbody>
+      <tr>
+        <td height="226" width="330">&nbsp;</td>
+        <td width="352" height="226">&nbsp;</td>
+        <td width="302" height="226" align="center">&nbsp;<img src="a_btn151.gif" width="128" height="128" border="0"></td>
+      </tr>
+      <tr>
+        <td height="70" width="330">&nbsp;</td>
+        <td width="352" height="70">&nbsp;</td>
+        <td width="302" height="70">&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
   <br>
 </div>
 <p><img src="a_line002.gif" width="400" height="4" border="0"><img src="a_line002.gif" width="400" height="4" border="0"><br>
