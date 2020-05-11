@@ -358,4 +358,12 @@
 </DATA>
 <DATA type="CHARANIM" src="anim41.gif" size="22571" crc="3989977087" ref="anim41.ini" ref_size="1374" ref_crc="2071911675">
 </DATA>
+<DATA type="MIF" src="DSCN47811.jpg" size="12699" crc="3912547861" ref="DSCN47811.mif" ref_size="344290" ref_crc="2336243841">
+</DATA>
+<DATA type="MIF" src="DSCN47821.jpg" size="11657" crc="1328356377" ref="DSCN47821.mif" ref_size="309682" ref_crc="213849291">
+</DATA>
+<DATA type="MIF" src="DSCN47791.jpg" size="12554" crc="3902442218" ref="DSCN47791.mif" ref_size="321280" ref_crc="771151166">
+</DATA>
+<DATA type="CHARANIM" src="anim42.gif" size="22551" crc="2010490864" ref="anim42.ini" ref_size="1374" ref_crc="3698651429">
+</DATA>
 </RECYCLEDDATA>
