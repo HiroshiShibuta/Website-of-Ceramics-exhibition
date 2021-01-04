@@ -482,4 +482,10 @@
 </DATA>
 <DATA type="CHARANIM" src="anim62.gif" size="15971" crc="576107805" ref="anim62.ini" ref_size="1375" ref_crc="3006271598">
 </DATA>
+<DATA type="BUTTON" src="button12.gif" size="1171" crc="821112775" ref="button12.mif" ref_size="13856" ref_crc="1935995167">
+</DATA>
+<DATA type="CHARANIM" src="anim63.gif" size="16621" crc="1474802132" ref="anim63.ini" ref_size="1374" ref_crc="490744871">
+</DATA>
+<DATA type="BUTTON" src="button22.gif" size="1171" crc="821112775" ref="button22.mif" ref_size="13856" ref_crc="1935995167">
+</DATA>
 </RECYCLEDDATA>
