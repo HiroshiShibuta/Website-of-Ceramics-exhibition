@@ -522,4 +522,8 @@
 </DATA>
 <DATA type="MIF" src="DSCN50431.jpg" size="8475" crc="1353164009" ref="DSCN50431.mif" ref_size="288650" ref_crc="1910020785">
 </DATA>
+<DATA type="LOGO" src="logo1.gif" size="2853" crc="2152661062" ref="logo1.mif" ref_size="9367" ref_crc="3973667648">
+</DATA>
+<DATA type="LOGO" src="logo2.gif" size="2853" crc="2152661062" ref="logo2.mif" ref_size="9367" ref_crc="3973667648">
+</DATA>
 </RECYCLEDDATA>
