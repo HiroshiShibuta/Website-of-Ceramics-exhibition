@@ -530,4 +530,8 @@
 </DATA>
 <DATA type="LOGO" src="logo21.gif" size="2617" crc="2337596037" ref="logo21.mif" ref_size="8740" ref_crc="1263865532">
 </DATA>
+<DATA type="MIF" src="FSCN50521.jpg" size="15325" crc="1434720290" ref="FSCN50521.mif" ref_size="409602" ref_crc="3550439510">
+</DATA>
+<DATA type="CHARANIM" src="anim64.gif" size="27851" crc="1888954978" ref="anim64.ini" ref_size="1377" ref_crc="3201430949">
+</DATA>
 </RECYCLEDDATA>
