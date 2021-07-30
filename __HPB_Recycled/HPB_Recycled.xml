@@ -534,4 +534,8 @@
 </DATA>
 <DATA type="CHARANIM" src="anim64.gif" size="27851" crc="1888954978" ref="anim64.ini" ref_size="1377" ref_crc="3201430949">
 </DATA>
+<DATA type="MIF" src="FSCN50741.jpg" size="9588" crc="1252076541" ref="FSCN50741.mif" ref_size="310174" ref_crc="649179749">
+</DATA>
+<DATA type="CHARANIM" src="anim65.gif" size="21811" crc="3697987377" ref="anim65.ini" ref_size="1377" ref_crc="3136463976">
+</DATA>
 </RECYCLEDDATA>
