@@ -554,4 +554,12 @@
 </DATA>
 <DATA type="CHARANIM" src="anim67.gif" size="29671" crc="1055292036" ref="anim67.ini" ref_size="1381" ref_crc="14137509">
 </DATA>
+<DATA type="LOGO" src="logo14.gif" size="6969" crc="2822449442" ref="logo14.mif" ref_size="41307" ref_crc="2454769956">
+</DATA>
+<DATA type="LOGO" src="logo33.gif" size="5753" crc="39289273" ref="logo33.mif" ref_size="37838" ref_crc="4045195373">
+</DATA>
+<DATA type="LOGO" src="logo43.gif" size="3881" crc="2010559026" ref="logo43.mif" ref_size="22394" ref_crc="327072437">
+</DATA>
+<DATA type="CHARANIM" src="anim68.gif" size="29211" crc="1989965382" ref="anim68.ini" ref_size="1377" ref_crc="3019758302">
+</DATA>
 </RECYCLEDDATA>
