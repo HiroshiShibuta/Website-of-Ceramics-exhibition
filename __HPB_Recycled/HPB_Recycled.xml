@@ -562,4 +562,8 @@
 </DATA>
 <DATA type="CHARANIM" src="anim68.gif" size="29211" crc="1989965382" ref="anim68.ini" ref_size="1377" ref_crc="3019758302">
 </DATA>
+<DATA type="LOGO" src="logo16.gif" size="7831" crc="1345102086" ref="logo16.mif" ref_size="50776" ref_crc="1410759809">
+</DATA>
+<DATA type="LOGO" src="logo24.gif" size="7062" crc="577543509" ref="logo24.mif" ref_size="39340" ref_crc="1480985817">
+</DATA>
 </RECYCLEDDATA>
