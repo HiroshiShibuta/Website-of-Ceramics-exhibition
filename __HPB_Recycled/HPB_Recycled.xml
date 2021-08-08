@@ -578,4 +578,12 @@
 </DATA>
 <DATA type="LOGO" src="logo18.gif" size="2528" crc="3770460130" ref="logo18.mif" ref_size="9608" ref_crc="1807281052">
 </DATA>
+<DATA type="CHARANIM" src="anim70.gif" size="18321" crc="2411411954" ref="anim70.ini" ref_size="1373" ref_crc="645933927">
+</DATA>
+<DATA type="LOGO" src="logo19.gif" size="7320" crc="1560254665" ref="logo19.mif" ref_size="31367" ref_crc="3906988639">
+</DATA>
+<DATA type="CHARANIM" src="anim71.gif" size="5228" crc="2042790337" ref="anim71.ini" ref_size="1373" ref_crc="1199445498">
+</DATA>
+<DATA type="CHARANIM" src="anim72.gif" size="32101" crc="2241918725" ref="anim72.ini" ref_size="1387" ref_crc="1260655843">
+</DATA>
 </RECYCLEDDATA>
