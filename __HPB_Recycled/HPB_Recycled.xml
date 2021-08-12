@@ -594,4 +594,10 @@
 </DATA>
 <DATA type="LOGO" src="logo25.gif" size="3372" crc="3137112352" ref="logo25.mif" ref_size="15359" ref_crc="4238212968">
 </DATA>
+<DATA type="LOGO" src="logo113.gif" size="4048" crc="1609292089" ref="logo113.mif" ref_size="14333" ref_crc="4185191050">
+</DATA>
+<DATA type="CHARANIM" src="anim73.gif" size="39251" crc="2228508945" ref="anim73.ini" ref_size="1387" ref_crc="3549115888">
+</DATA>
+<DATA type="LOGO" src="logo26.gif" size="4633" crc="3029441273" ref="logo26.mif" ref_size="16511" ref_crc="3686174336">
+</DATA>
 </RECYCLEDDATA>
