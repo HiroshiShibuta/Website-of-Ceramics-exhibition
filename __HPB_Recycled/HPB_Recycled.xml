@@ -604,4 +604,8 @@
 </DATA>
 <DATA type="LOGO" src="logo114.gif" size="5345" crc="3133585543" ref="logo114.mif" ref_size="22624" ref_crc="2377815846">
 </DATA>
+<DATA type="LOGO" src="logo115.gif" size="5684" crc="347945356" ref="logo115.mif" ref_size="19043" ref_crc="3168546576">
+</DATA>
+<DATA type="CHARANIM" src="anim75.gif" size="18761" crc="1702379936" ref="anim75.ini" ref_size="1373" ref_crc="4155413898">
+</DATA>
 </RECYCLEDDATA>
