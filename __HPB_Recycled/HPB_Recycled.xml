@@ -616,4 +616,8 @@
 </DATA>
 <DATA type="CHARANIM" src="anim76.gif" size="22441" crc="1362191231" ref="anim76.ini" ref_size="1371" ref_crc="3504369223">
 </DATA>
+<DATA type="MIF" src="DSCN51181.jpg" size="15940" crc="3344018926" ref="DSCN51181.mif" ref_size="398558" ref_crc="1195981405">
+</DATA>
+<DATA type="MIF" src="FSCN51171.jpg" size="18880" crc="2682583851" ref="FSCN51171.mif" ref_size="432500" ref_crc="1279221130">
+</DATA>
 </RECYCLEDDATA>
